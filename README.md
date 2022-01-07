@@ -1,6 +1,6 @@
 # trade-resillient-gateway
 
-This is a gateway project developed by using S0pring Could Gateway and Resillience4j.
+This is a gateway project developed by using Spring Could Gateway and Resillience4j.
 
 Due to application.yml and GatewayConfig, the calls coming to gateway will be either forwarded to TraderClient overview or TraderServer main functionalities.
 
